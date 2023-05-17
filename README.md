@@ -16,6 +16,9 @@ Automatic irrigation system
 run project : `mvn spring-boot:run`
 	
 
+## in database
+insert data into two table plots and crops only 
+the table irrigation  the data insert into automatic,But I did not create the function to add the data
 ##  After running
  we see the sensor request and the change of the Slots state in Treminal 
 
